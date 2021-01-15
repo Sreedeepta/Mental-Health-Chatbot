@@ -28,3 +28,7419 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+- story: depression0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression0
+  - action: utter_depression0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression1
+  - action: utter_depression1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression2
+  - action: utter_depression2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression3
+  - action: utter_depression3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression4
+  - action: utter_depression4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression5
+  - action: utter_depression5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression6
+  - action: utter_depression6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression7
+  - action: utter_depression7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression8
+  - action: utter_depression8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression9
+  - action: utter_depression9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression10
+  - action: utter_depression10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression11
+  - action: utter_depression11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression12
+  - action: utter_depression12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression13
+  - action: utter_depression13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression14
+  - action: utter_depression14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression15
+  - action: utter_depression15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression16 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression16
+  - action: utter_depression16
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression17 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression17
+  - action: utter_depression17
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression18 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression18
+  - action: utter_depression18
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression19 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression19
+  - action: utter_depression19
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression20 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression20
+  - action: utter_depression20
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression21 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression21
+  - action: utter_depression21
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression22 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression22
+  - action: utter_depression22
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression23 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression23
+  - action: utter_depression23
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression24 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression24
+  - action: utter_depression24
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression25 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression25
+  - action: utter_depression25
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression26 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression26
+  - action: utter_depression26
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression27 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression27
+  - action: utter_depression27
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression28 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression28
+  - action: utter_depression28
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression29 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression29
+  - action: utter_depression29
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression30 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression30
+  - action: utter_depression30
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression31 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression31
+  - action: utter_depression31
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression32 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression32
+  - action: utter_depression32
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression33 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression33
+  - action: utter_depression33
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression34 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression34
+  - action: utter_depression34
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression35 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression35
+  - action: utter_depression35
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression36 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression36
+  - action: utter_depression36
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression37 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression37
+  - action: utter_depression37
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression38 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression38
+  - action: utter_depression38
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression39 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression39
+  - action: utter_depression39
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression40 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression40
+  - action: utter_depression40
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression41 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression41
+  - action: utter_depression41
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression42 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression42
+  - action: utter_depression42
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression43 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression43
+  - action: utter_depression43
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression44 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression44
+  - action: utter_depression44
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression45 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression45
+  - action: utter_depression45
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression46 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression46
+  - action: utter_depression46
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression47 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression47
+  - action: utter_depression47
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression48 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression48
+  - action: utter_depression48
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression49 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression49
+  - action: utter_depression49
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression50 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression50
+  - action: utter_depression50
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression51 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression51
+  - action: utter_depression51
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression52 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression52
+  - action: utter_depression52
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression53 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression53
+  - action: utter_depression53
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression54 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression54
+  - action: utter_depression54
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression55 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression55
+  - action: utter_depression55
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression56 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression56
+  - action: utter_depression56
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression57 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression57
+  - action: utter_depression57
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression58 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression58
+  - action: utter_depression58
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression59 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression59
+  - action: utter_depression59
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression60 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression60
+  - action: utter_depression60
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression61 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression61
+  - action: utter_depression61
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression62 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression62
+  - action: utter_depression62
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression63 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression63
+  - action: utter_depression63
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression64 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression64
+  - action: utter_depression64
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression65 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression65
+  - action: utter_depression65
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression66 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression66
+  - action: utter_depression66
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression67 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression67
+  - action: utter_depression67
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression68 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression68
+  - action: utter_depression68
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression69 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression69
+  - action: utter_depression69
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression70 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression70
+  - action: utter_depression70
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression71 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression71
+  - action: utter_depression71
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression72 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression72
+  - action: utter_depression72
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression73 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression73
+  - action: utter_depression73
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression74 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression74
+  - action: utter_depression74
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression75 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression75
+  - action: utter_depression75
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression76 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression76
+  - action: utter_depression76
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression77 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression77
+  - action: utter_depression77
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression78 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression78
+  - action: utter_depression78
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression79 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression79
+  - action: utter_depression79
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression80 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression80
+  - action: utter_depression80
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression81 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression81
+  - action: utter_depression81
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression82 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression82
+  - action: utter_depression82
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression83 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression83
+  - action: utter_depression83
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression84 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression84
+  - action: utter_depression84
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression85 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression85
+  - action: utter_depression85
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression86 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression86
+  - action: utter_depression86
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression87 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression87
+  - action: utter_depression87
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression88 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression88
+  - action: utter_depression88
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression89 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression89
+  - action: utter_depression89
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression90 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression90
+  - action: utter_depression90
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression91 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression91
+  - action: utter_depression91
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression92 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression92
+  - action: utter_depression92
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression93 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression93
+  - action: utter_depression93
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression94 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression94
+  - action: utter_depression94
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression95 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression95
+  - action: utter_depression95
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression96 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression96
+  - action: utter_depression96
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression97 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression97
+  - action: utter_depression97
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression98 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression98
+  - action: utter_depression98
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression99 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression99
+  - action: utter_depression99
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression100 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression100
+  - action: utter_depression100
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression101 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression101
+  - action: utter_depression101
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression102 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression102
+  - action: utter_depression102
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression103 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression103
+  - action: utter_depression103
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression104 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression104
+  - action: utter_depression104
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression105 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression105
+  - action: utter_depression105
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression106 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression106
+  - action: utter_depression106
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression107 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression107
+  - action: utter_depression107
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression108 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression108
+  - action: utter_depression108
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression109 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression109
+  - action: utter_depression109
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression110 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression110
+  - action: utter_depression110
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression111 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression111
+  - action: utter_depression111
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression112 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression112
+  - action: utter_depression112
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression113 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression113
+  - action: utter_depression113
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression114 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression114
+  - action: utter_depression114
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression115 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression115
+  - action: utter_depression115
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression116 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression116
+  - action: utter_depression116
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression117 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression117
+  - action: utter_depression117
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression118 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression118
+  - action: utter_depression118
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression119 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression119
+  - action: utter_depression119
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression120 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression120
+  - action: utter_depression120
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression121 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression121
+  - action: utter_depression121
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression122 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression122
+  - action: utter_depression122
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression123 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression123
+  - action: utter_depression123
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression124 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression124
+  - action: utter_depression124
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression125 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression125
+  - action: utter_depression125
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression126 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression126
+  - action: utter_depression126
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression127 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression127
+  - action: utter_depression127
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression128 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression128
+  - action: utter_depression128
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression129 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression129
+  - action: utter_depression129
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression130 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression130
+  - action: utter_depression130
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: depression131 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: depression131
+  - action: utter_depression131
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety0
+  - action: utter_anxiety0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety1
+  - action: utter_anxiety1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety2
+  - action: utter_anxiety2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety3
+  - action: utter_anxiety3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety4
+  - action: utter_anxiety4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety5
+  - action: utter_anxiety5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety6
+  - action: utter_anxiety6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety7
+  - action: utter_anxiety7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety8
+  - action: utter_anxiety8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety9
+  - action: utter_anxiety9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety10
+  - action: utter_anxiety10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety11
+  - action: utter_anxiety11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety12
+  - action: utter_anxiety12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety13
+  - action: utter_anxiety13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety14
+  - action: utter_anxiety14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety15
+  - action: utter_anxiety15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety16 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety16
+  - action: utter_anxiety16
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety17 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety17
+  - action: utter_anxiety17
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety18 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety18
+  - action: utter_anxiety18
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety19 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety19
+  - action: utter_anxiety19
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety20 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety20
+  - action: utter_anxiety20
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety21 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety21
+  - action: utter_anxiety21
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety22 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety22
+  - action: utter_anxiety22
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety23 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety23
+  - action: utter_anxiety23
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety24 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety24
+  - action: utter_anxiety24
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety25 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety25
+  - action: utter_anxiety25
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety26 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety26
+  - action: utter_anxiety26
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety27 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety27
+  - action: utter_anxiety27
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety28 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety28
+  - action: utter_anxiety28
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety29 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety29
+  - action: utter_anxiety29
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety30 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety30
+  - action: utter_anxiety30
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety31 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety31
+  - action: utter_anxiety31
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety32 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety32
+  - action: utter_anxiety32
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety33 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety33
+  - action: utter_anxiety33
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety34 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety34
+  - action: utter_anxiety34
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety35 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety35
+  - action: utter_anxiety35
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety36 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety36
+  - action: utter_anxiety36
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety37 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety37
+  - action: utter_anxiety37
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety38 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety38
+  - action: utter_anxiety38
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety39 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety39
+  - action: utter_anxiety39
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety40 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety40
+  - action: utter_anxiety40
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety41 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety41
+  - action: utter_anxiety41
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety42 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety42
+  - action: utter_anxiety42
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety43 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety43
+  - action: utter_anxiety43
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety44 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety44
+  - action: utter_anxiety44
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety45 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety45
+  - action: utter_anxiety45
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety46 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety46
+  - action: utter_anxiety46
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety47 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety47
+  - action: utter_anxiety47
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety48 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety48
+  - action: utter_anxiety48
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety49 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety49
+  - action: utter_anxiety49
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety50 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety50
+  - action: utter_anxiety50
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety51 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety51
+  - action: utter_anxiety51
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety52 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety52
+  - action: utter_anxiety52
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety53 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety53
+  - action: utter_anxiety53
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety54 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety54
+  - action: utter_anxiety54
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety55 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety55
+  - action: utter_anxiety55
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety56 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety56
+  - action: utter_anxiety56
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety57 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety57
+  - action: utter_anxiety57
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety58 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety58
+  - action: utter_anxiety58
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety59 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety59
+  - action: utter_anxiety59
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety60 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety60
+  - action: utter_anxiety60
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety61 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety61
+  - action: utter_anxiety61
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety62 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety62
+  - action: utter_anxiety62
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety63 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety63
+  - action: utter_anxiety63
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety64 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety64
+  - action: utter_anxiety64
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety65 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety65
+  - action: utter_anxiety65
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety66 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety66
+  - action: utter_anxiety66
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety67 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety67
+  - action: utter_anxiety67
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety68 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety68
+  - action: utter_anxiety68
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety69 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety69
+  - action: utter_anxiety69
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety70 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety70
+  - action: utter_anxiety70
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety71 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety71
+  - action: utter_anxiety71
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety72 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety72
+  - action: utter_anxiety72
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety73 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety73
+  - action: utter_anxiety73
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety74 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety74
+  - action: utter_anxiety74
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety75 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety75
+  - action: utter_anxiety75
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety76 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety76
+  - action: utter_anxiety76
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety77 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety77
+  - action: utter_anxiety77
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety78 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety78
+  - action: utter_anxiety78
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety79 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety79
+  - action: utter_anxiety79
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety80 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety80
+  - action: utter_anxiety80
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety81 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety81
+  - action: utter_anxiety81
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety82 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety82
+  - action: utter_anxiety82
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety83 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety83
+  - action: utter_anxiety83
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety84 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety84
+  - action: utter_anxiety84
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety85 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety85
+  - action: utter_anxiety85
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety86 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety86
+  - action: utter_anxiety86
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anxiety87 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anxiety87
+  - action: utter_anxiety87
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting0
+  - action: utter_parenting0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting1
+  - action: utter_parenting1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting2
+  - action: utter_parenting2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting3
+  - action: utter_parenting3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting4
+  - action: utter_parenting4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting5
+  - action: utter_parenting5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting6
+  - action: utter_parenting6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting7
+  - action: utter_parenting7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting8
+  - action: utter_parenting8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting9
+  - action: utter_parenting9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting10
+  - action: utter_parenting10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting11
+  - action: utter_parenting11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting12
+  - action: utter_parenting12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting13
+  - action: utter_parenting13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting14
+  - action: utter_parenting14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting15
+  - action: utter_parenting15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting16 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting16
+  - action: utter_parenting16
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting17 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting17
+  - action: utter_parenting17
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting18 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting18
+  - action: utter_parenting18
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting19 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting19
+  - action: utter_parenting19
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting20 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting20
+  - action: utter_parenting20
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting21 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting21
+  - action: utter_parenting21
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting22 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting22
+  - action: utter_parenting22
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting23 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting23
+  - action: utter_parenting23
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting24 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting24
+  - action: utter_parenting24
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting25 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting25
+  - action: utter_parenting25
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting26 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting26
+  - action: utter_parenting26
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting27 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting27
+  - action: utter_parenting27
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting28 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting28
+  - action: utter_parenting28
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting29 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting29
+  - action: utter_parenting29
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting30 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting30
+  - action: utter_parenting30
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting31 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting31
+  - action: utter_parenting31
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting32 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting32
+  - action: utter_parenting32
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting33 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting33
+  - action: utter_parenting33
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting34 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting34
+  - action: utter_parenting34
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting35 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting35
+  - action: utter_parenting35
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting36 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting36
+  - action: utter_parenting36
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting37 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting37
+  - action: utter_parenting37
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting38 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting38
+  - action: utter_parenting38
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting39 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting39
+  - action: utter_parenting39
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting40 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting40
+  - action: utter_parenting40
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting41 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting41
+  - action: utter_parenting41
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting42 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting42
+  - action: utter_parenting42
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting43 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting43
+  - action: utter_parenting43
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting44 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting44
+  - action: utter_parenting44
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting45 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting45
+  - action: utter_parenting45
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting46 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting46
+  - action: utter_parenting46
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting47 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting47
+  - action: utter_parenting47
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting48 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting48
+  - action: utter_parenting48
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting49 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting49
+  - action: utter_parenting49
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting50 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting50
+  - action: utter_parenting50
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting51 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting51
+  - action: utter_parenting51
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting52 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting52
+  - action: utter_parenting52
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: parenting53 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: parenting53
+  - action: utter_parenting53
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem0
+  - action: utter_self-esteem0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem1
+  - action: utter_self-esteem1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem2
+  - action: utter_self-esteem2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem3
+  - action: utter_self-esteem3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem4
+  - action: utter_self-esteem4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem5
+  - action: utter_self-esteem5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem6
+  - action: utter_self-esteem6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem7
+  - action: utter_self-esteem7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem8
+  - action: utter_self-esteem8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem9
+  - action: utter_self-esteem9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem10
+  - action: utter_self-esteem10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem11
+  - action: utter_self-esteem11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem12
+  - action: utter_self-esteem12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem13
+  - action: utter_self-esteem13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem14
+  - action: utter_self-esteem14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem15
+  - action: utter_self-esteem15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem16 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem16
+  - action: utter_self-esteem16
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem17 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem17
+  - action: utter_self-esteem17
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem18 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem18
+  - action: utter_self-esteem18
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem19 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem19
+  - action: utter_self-esteem19
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem20 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem20
+  - action: utter_self-esteem20
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem21 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem21
+  - action: utter_self-esteem21
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem22 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem22
+  - action: utter_self-esteem22
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem23 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem23
+  - action: utter_self-esteem23
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem24 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem24
+  - action: utter_self-esteem24
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem25 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem25
+  - action: utter_self-esteem25
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem26 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem26
+  - action: utter_self-esteem26
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem27 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem27
+  - action: utter_self-esteem27
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem28 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem28
+  - action: utter_self-esteem28
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem29 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem29
+  - action: utter_self-esteem29
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem30 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem30
+  - action: utter_self-esteem30
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem31 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem31
+  - action: utter_self-esteem31
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem32 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem32
+  - action: utter_self-esteem32
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem33 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem33
+  - action: utter_self-esteem33
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem34 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem34
+  - action: utter_self-esteem34
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem35 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem35
+  - action: utter_self-esteem35
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem36 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem36
+  - action: utter_self-esteem36
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem37 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem37
+  - action: utter_self-esteem37
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem38 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem38
+  - action: utter_self-esteem38
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem39 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem39
+  - action: utter_self-esteem39
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem40 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem40
+  - action: utter_self-esteem40
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: self-esteem41 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: self-esteem41
+  - action: utter_self-esteem41
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution0
+  - action: utter_relationship-dissolution0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution1
+  - action: utter_relationship-dissolution1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution2
+  - action: utter_relationship-dissolution2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution3
+  - action: utter_relationship-dissolution3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution4
+  - action: utter_relationship-dissolution4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution5
+  - action: utter_relationship-dissolution5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution6
+  - action: utter_relationship-dissolution6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution7
+  - action: utter_relationship-dissolution7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution8
+  - action: utter_relationship-dissolution8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution9
+  - action: utter_relationship-dissolution9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution10
+  - action: utter_relationship-dissolution10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution11
+  - action: utter_relationship-dissolution11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution12
+  - action: utter_relationship-dissolution12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution13
+  - action: utter_relationship-dissolution13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution14
+  - action: utter_relationship-dissolution14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution15
+  - action: utter_relationship-dissolution15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution16 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution16
+  - action: utter_relationship-dissolution16
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution17 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution17
+  - action: utter_relationship-dissolution17
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution18 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution18
+  - action: utter_relationship-dissolution18
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution19 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution19
+  - action: utter_relationship-dissolution19
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution20 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution20
+  - action: utter_relationship-dissolution20
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution21 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution21
+  - action: utter_relationship-dissolution21
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution22 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution22
+  - action: utter_relationship-dissolution22
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution23 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution23
+  - action: utter_relationship-dissolution23
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution24 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution24
+  - action: utter_relationship-dissolution24
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution25 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution25
+  - action: utter_relationship-dissolution25
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution26 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution26
+  - action: utter_relationship-dissolution26
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution27 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution27
+  - action: utter_relationship-dissolution27
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution28 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution28
+  - action: utter_relationship-dissolution28
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution29 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution29
+  - action: utter_relationship-dissolution29
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationship-dissolution30 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationship-dissolution30
+  - action: utter_relationship-dissolution30
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: workplace-relationships0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: workplace-relationships0
+  - action: utter_workplace-relationships0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: workplace-relationships1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: workplace-relationships1
+  - action: utter_workplace-relationships1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: workplace-relationships2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: workplace-relationships2
+  - action: utter_workplace-relationships2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: workplace-relationships3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: workplace-relationships3
+  - action: utter_workplace-relationships3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: workplace-relationships4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: workplace-relationships4
+  - action: utter_workplace-relationships4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: workplace-relationships5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: workplace-relationships5
+  - action: utter_workplace-relationships5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: workplace-relationships6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: workplace-relationships6
+  - action: utter_workplace-relationships6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: workplace-relationships7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: workplace-relationships7
+  - action: utter_workplace-relationships7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: workplace-relationships8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: workplace-relationships8
+  - action: utter_workplace-relationships8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: workplace-relationships9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: workplace-relationships9
+  - action: utter_workplace-relationships9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: workplace-relationships10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: workplace-relationships10
+  - action: utter_workplace-relationships10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: spirituality0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: spirituality0
+  - action: utter_spirituality0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: spirituality1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: spirituality1
+  - action: utter_spirituality1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: spirituality2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: spirituality2
+  - action: utter_spirituality2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: spirituality3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: spirituality3
+  - action: utter_spirituality3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: spirituality4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: spirituality4
+  - action: utter_spirituality4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: spirituality5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: spirituality5
+  - action: utter_spirituality5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: spirituality6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: spirituality6
+  - action: utter_spirituality6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma0
+  - action: utter_trauma0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma1
+  - action: utter_trauma1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma2
+  - action: utter_trauma2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma3
+  - action: utter_trauma3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma4
+  - action: utter_trauma4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma5
+  - action: utter_trauma5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma6
+  - action: utter_trauma6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma7
+  - action: utter_trauma7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma8
+  - action: utter_trauma8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma9
+  - action: utter_trauma9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma10
+  - action: utter_trauma10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma11
+  - action: utter_trauma11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma12
+  - action: utter_trauma12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma13
+  - action: utter_trauma13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma14
+  - action: utter_trauma14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma15
+  - action: utter_trauma15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma16 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma16
+  - action: utter_trauma16
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma17 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma17
+  - action: utter_trauma17
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma18 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma18
+  - action: utter_trauma18
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma19 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma19
+  - action: utter_trauma19
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma20 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma20
+  - action: utter_trauma20
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: trauma21 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: trauma21
+  - action: utter_trauma21
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence0
+  - action: utter_domestic-violence0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence1
+  - action: utter_domestic-violence1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence2
+  - action: utter_domestic-violence2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence3
+  - action: utter_domestic-violence3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence4
+  - action: utter_domestic-violence4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence5
+  - action: utter_domestic-violence5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence6
+  - action: utter_domestic-violence6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence7
+  - action: utter_domestic-violence7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence8
+  - action: utter_domestic-violence8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence9
+  - action: utter_domestic-violence9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence10
+  - action: utter_domestic-violence10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence11
+  - action: utter_domestic-violence11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence12
+  - action: utter_domestic-violence12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence13
+  - action: utter_domestic-violence13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence14
+  - action: utter_domestic-violence14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: domestic-violence15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: domestic-violence15
+  - action: utter_domestic-violence15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management0
+  - action: utter_anger-management0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management1
+  - action: utter_anger-management1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management2
+  - action: utter_anger-management2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management3
+  - action: utter_anger-management3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management4
+  - action: utter_anger-management4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management5
+  - action: utter_anger-management5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management6
+  - action: utter_anger-management6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management7
+  - action: utter_anger-management7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management8
+  - action: utter_anger-management8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management9
+  - action: utter_anger-management9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management10
+  - action: utter_anger-management10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management11
+  - action: utter_anger-management11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management12
+  - action: utter_anger-management12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management13
+  - action: utter_anger-management13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management14
+  - action: utter_anger-management14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management15
+  - action: utter_anger-management15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management16 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management16
+  - action: utter_anger-management16
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management17 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management17
+  - action: utter_anger-management17
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management18 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management18
+  - action: utter_anger-management18
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management19 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management19
+  - action: utter_anger-management19
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management20 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management20
+  - action: utter_anger-management20
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management21 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management21
+  - action: utter_anger-management21
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management22 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management22
+  - action: utter_anger-management22
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management23 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management23
+  - action: utter_anger-management23
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: anger-management24 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: anger-management24
+  - action: utter_anger-management24
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: sleep-improvement0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: sleep-improvement0
+  - action: utter_sleep-improvement0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: sleep-improvement1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: sleep-improvement1
+  - action: utter_sleep-improvement1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: sleep-improvement2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: sleep-improvement2
+  - action: utter_sleep-improvement2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: sleep-improvement3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: sleep-improvement3
+  - action: utter_sleep-improvement3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: sleep-improvement4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: sleep-improvement4
+  - action: utter_sleep-improvement4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy0
+  - action: utter_intimacy0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy1
+  - action: utter_intimacy1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy2
+  - action: utter_intimacy2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy3
+  - action: utter_intimacy3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy4
+  - action: utter_intimacy4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy5
+  - action: utter_intimacy5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy6
+  - action: utter_intimacy6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy7
+  - action: utter_intimacy7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy8
+  - action: utter_intimacy8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy9
+  - action: utter_intimacy9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy10
+  - action: utter_intimacy10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy11
+  - action: utter_intimacy11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy12
+  - action: utter_intimacy12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy13
+  - action: utter_intimacy13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy14
+  - action: utter_intimacy14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy15
+  - action: utter_intimacy15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy16 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy16
+  - action: utter_intimacy16
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy17 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy17
+  - action: utter_intimacy17
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy18 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy18
+  - action: utter_intimacy18
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy19 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy19
+  - action: utter_intimacy19
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy20 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy20
+  - action: utter_intimacy20
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy21 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy21
+  - action: utter_intimacy21
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy22 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy22
+  - action: utter_intimacy22
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy23 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy23
+  - action: utter_intimacy23
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy24 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy24
+  - action: utter_intimacy24
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy25 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy25
+  - action: utter_intimacy25
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy26 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy26
+  - action: utter_intimacy26
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy27 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy27
+  - action: utter_intimacy27
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy28 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy28
+  - action: utter_intimacy28
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy29 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy29
+  - action: utter_intimacy29
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy30 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy30
+  - action: utter_intimacy30
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy31 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy31
+  - action: utter_intimacy31
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy32 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy32
+  - action: utter_intimacy32
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy33 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy33
+  - action: utter_intimacy33
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy34 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy34
+  - action: utter_intimacy34
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy35 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy35
+  - action: utter_intimacy35
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy36 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy36
+  - action: utter_intimacy36
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy37 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy37
+  - action: utter_intimacy37
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy38 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy38
+  - action: utter_intimacy38
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy39 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy39
+  - action: utter_intimacy39
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy40 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy40
+  - action: utter_intimacy40
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy41 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy41
+  - action: utter_intimacy41
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy42 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy42
+  - action: utter_intimacy42
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy43 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy43
+  - action: utter_intimacy43
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy44 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy44
+  - action: utter_intimacy44
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy45 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy45
+  - action: utter_intimacy45
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy46 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy46
+  - action: utter_intimacy46
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy47 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy47
+  - action: utter_intimacy47
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy48 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy48
+  - action: utter_intimacy48
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy49 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy49
+  - action: utter_intimacy49
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy50 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy50
+  - action: utter_intimacy50
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy51 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy51
+  - action: utter_intimacy51
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy52 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy52
+  - action: utter_intimacy52
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy53 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy53
+  - action: utter_intimacy53
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy54 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy54
+  - action: utter_intimacy54
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy55 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy55
+  - action: utter_intimacy55
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy56 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy56
+  - action: utter_intimacy56
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy57 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy57
+  - action: utter_intimacy57
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy58 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy58
+  - action: utter_intimacy58
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy59 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy59
+  - action: utter_intimacy59
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy60 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy60
+  - action: utter_intimacy60
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy61 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy61
+  - action: utter_intimacy61
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy62 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy62
+  - action: utter_intimacy62
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy63 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy63
+  - action: utter_intimacy63
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy64 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy64
+  - action: utter_intimacy64
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy65 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy65
+  - action: utter_intimacy65
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy66 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy66
+  - action: utter_intimacy66
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy67 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy67
+  - action: utter_intimacy67
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy68 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy68
+  - action: utter_intimacy68
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy69 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy69
+  - action: utter_intimacy69
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy70 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy70
+  - action: utter_intimacy70
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy71 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy71
+  - action: utter_intimacy71
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy72 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy72
+  - action: utter_intimacy72
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy73 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy73
+  - action: utter_intimacy73
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy74 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy74
+  - action: utter_intimacy74
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy75 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy75
+  - action: utter_intimacy75
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy76 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy76
+  - action: utter_intimacy76
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy77 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy77
+  - action: utter_intimacy77
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy78 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy78
+  - action: utter_intimacy78
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy79 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy79
+  - action: utter_intimacy79
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy80 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy80
+  - action: utter_intimacy80
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy81 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy81
+  - action: utter_intimacy81
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy82 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy82
+  - action: utter_intimacy82
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy83 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy83
+  - action: utter_intimacy83
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy84 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy84
+  - action: utter_intimacy84
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy85 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy85
+  - action: utter_intimacy85
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy86 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy86
+  - action: utter_intimacy86
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy87 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy87
+  - action: utter_intimacy87
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy88 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy88
+  - action: utter_intimacy88
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy89 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy89
+  - action: utter_intimacy89
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy90 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy90
+  - action: utter_intimacy90
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy91 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy91
+  - action: utter_intimacy91
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy92 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy92
+  - action: utter_intimacy92
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy93 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy93
+  - action: utter_intimacy93
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy94 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy94
+  - action: utter_intimacy94
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy95 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy95
+  - action: utter_intimacy95
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy96 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy96
+  - action: utter_intimacy96
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy97 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy97
+  - action: utter_intimacy97
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy98 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy98
+  - action: utter_intimacy98
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: intimacy99 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: intimacy99
+  - action: utter_intimacy99
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: grief-and-loss0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: grief-and-loss0
+  - action: utter_grief-and-loss0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: grief-and-loss1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: grief-and-loss1
+  - action: utter_grief-and-loss1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: grief-and-loss2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: grief-and-loss2
+  - action: utter_grief-and-loss2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: grief-and-loss3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: grief-and-loss3
+  - action: utter_grief-and-loss3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: grief-and-loss4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: grief-and-loss4
+  - action: utter_grief-and-loss4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: grief-and-loss5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: grief-and-loss5
+  - action: utter_grief-and-loss5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: grief-and-loss6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: grief-and-loss6
+  - action: utter_grief-and-loss6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: grief-and-loss7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: grief-and-loss7
+  - action: utter_grief-and-loss7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: substance-abuse0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: substance-abuse0
+  - action: utter_substance-abuse0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: substance-abuse1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: substance-abuse1
+  - action: utter_substance-abuse1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: substance-abuse2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: substance-abuse2
+  - action: utter_substance-abuse2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: substance-abuse3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: substance-abuse3
+  - action: utter_substance-abuse3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: substance-abuse4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: substance-abuse4
+  - action: utter_substance-abuse4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: substance-abuse5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: substance-abuse5
+  - action: utter_substance-abuse5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: substance-abuse6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: substance-abuse6
+  - action: utter_substance-abuse6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: substance-abuse7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: substance-abuse7
+  - action: utter_substance-abuse7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: substance-abuse8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: substance-abuse8
+  - action: utter_substance-abuse8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: substance-abuse9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: substance-abuse9
+  - action: utter_substance-abuse9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict0
+  - action: utter_family-conflict0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict1
+  - action: utter_family-conflict1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict2
+  - action: utter_family-conflict2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict3
+  - action: utter_family-conflict3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict4
+  - action: utter_family-conflict4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict5
+  - action: utter_family-conflict5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict6
+  - action: utter_family-conflict6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict7
+  - action: utter_family-conflict7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict8
+  - action: utter_family-conflict8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict9
+  - action: utter_family-conflict9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict10
+  - action: utter_family-conflict10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict11
+  - action: utter_family-conflict11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict12
+  - action: utter_family-conflict12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict13
+  - action: utter_family-conflict13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict14
+  - action: utter_family-conflict14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict15
+  - action: utter_family-conflict15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict16 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict16
+  - action: utter_family-conflict16
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict17 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict17
+  - action: utter_family-conflict17
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict18 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict18
+  - action: utter_family-conflict18
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict19 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict19
+  - action: utter_family-conflict19
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict20 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict20
+  - action: utter_family-conflict20
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict21 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict21
+  - action: utter_family-conflict21
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict22 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict22
+  - action: utter_family-conflict22
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict23 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict23
+  - action: utter_family-conflict23
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict24 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict24
+  - action: utter_family-conflict24
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict25 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict25
+  - action: utter_family-conflict25
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict26 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict26
+  - action: utter_family-conflict26
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict27 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict27
+  - action: utter_family-conflict27
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict28 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict28
+  - action: utter_family-conflict28
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict29 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict29
+  - action: utter_family-conflict29
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict30 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict30
+  - action: utter_family-conflict30
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict31 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict31
+  - action: utter_family-conflict31
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict32 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict32
+  - action: utter_family-conflict32
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict33 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict33
+  - action: utter_family-conflict33
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict34 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict34
+  - action: utter_family-conflict34
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict35 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict35
+  - action: utter_family-conflict35
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict36 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict36
+  - action: utter_family-conflict36
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict37 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict37
+  - action: utter_family-conflict37
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict38 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict38
+  - action: utter_family-conflict38
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict39 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict39
+  - action: utter_family-conflict39
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict40 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict40
+  - action: utter_family-conflict40
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict41 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict41
+  - action: utter_family-conflict41
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict42 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict42
+  - action: utter_family-conflict42
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict43 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict43
+  - action: utter_family-conflict43
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict44 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict44
+  - action: utter_family-conflict44
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict45 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict45
+  - action: utter_family-conflict45
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict46 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict46
+  - action: utter_family-conflict46
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict47 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict47
+  - action: utter_family-conflict47
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict48 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict48
+  - action: utter_family-conflict48
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict49 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict49
+  - action: utter_family-conflict49
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict50 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict50
+  - action: utter_family-conflict50
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict51 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict51
+  - action: utter_family-conflict51
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict52 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict52
+  - action: utter_family-conflict52
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict53 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict53
+  - action: utter_family-conflict53
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict54 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict54
+  - action: utter_family-conflict54
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict55 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict55
+  - action: utter_family-conflict55
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict56 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict56
+  - action: utter_family-conflict56
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: family-conflict57 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: family-conflict57
+  - action: utter_family-conflict57
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage0
+  - action: utter_marriage0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage1
+  - action: utter_marriage1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage2
+  - action: utter_marriage2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage3
+  - action: utter_marriage3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage4
+  - action: utter_marriage4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage5
+  - action: utter_marriage5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage6
+  - action: utter_marriage6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage7
+  - action: utter_marriage7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage8
+  - action: utter_marriage8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage9
+  - action: utter_marriage9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage10
+  - action: utter_marriage10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage11
+  - action: utter_marriage11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage12
+  - action: utter_marriage12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage13
+  - action: utter_marriage13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage14
+  - action: utter_marriage14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage15
+  - action: utter_marriage15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage16 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage16
+  - action: utter_marriage16
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage17 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage17
+  - action: utter_marriage17
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage18 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage18
+  - action: utter_marriage18
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: marriage19 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: marriage19
+  - action: utter_marriage19
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: eating-disorders0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: eating-disorders0
+  - action: utter_eating-disorders0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: eating-disorders1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: eating-disorders1
+  - action: utter_eating-disorders1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: eating-disorders2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: eating-disorders2
+  - action: utter_eating-disorders2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: eating-disorders3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: eating-disorders3
+  - action: utter_eating-disorders3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships0
+  - action: utter_relationships0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships1
+  - action: utter_relationships1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships2
+  - action: utter_relationships2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships3
+  - action: utter_relationships3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships4
+  - action: utter_relationships4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships5
+  - action: utter_relationships5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships6
+  - action: utter_relationships6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships7
+  - action: utter_relationships7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships8
+  - action: utter_relationships8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships9
+  - action: utter_relationships9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships10
+  - action: utter_relationships10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships11
+  - action: utter_relationships11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships12
+  - action: utter_relationships12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships13
+  - action: utter_relationships13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships14
+  - action: utter_relationships14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships15
+  - action: utter_relationships15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships16 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships16
+  - action: utter_relationships16
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships17 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships17
+  - action: utter_relationships17
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships18 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships18
+  - action: utter_relationships18
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships19 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships19
+  - action: utter_relationships19
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships20 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships20
+  - action: utter_relationships20
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships21 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships21
+  - action: utter_relationships21
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships22 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships22
+  - action: utter_relationships22
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships23 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships23
+  - action: utter_relationships23
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships24 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships24
+  - action: utter_relationships24
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships25 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships25
+  - action: utter_relationships25
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships26 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships26
+  - action: utter_relationships26
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships27 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships27
+  - action: utter_relationships27
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships28 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships28
+  - action: utter_relationships28
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships29 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships29
+  - action: utter_relationships29
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships30 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships30
+  - action: utter_relationships30
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships31 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships31
+  - action: utter_relationships31
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships32 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships32
+  - action: utter_relationships32
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships33 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships33
+  - action: utter_relationships33
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships34 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships34
+  - action: utter_relationships34
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships35 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships35
+  - action: utter_relationships35
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships36 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships36
+  - action: utter_relationships36
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships37 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships37
+  - action: utter_relationships37
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships38 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships38
+  - action: utter_relationships38
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships39 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships39
+  - action: utter_relationships39
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships40 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships40
+  - action: utter_relationships40
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships41 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships41
+  - action: utter_relationships41
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships42 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships42
+  - action: utter_relationships42
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships43 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships43
+  - action: utter_relationships43
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships44 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships44
+  - action: utter_relationships44
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships45 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships45
+  - action: utter_relationships45
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships46 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships46
+  - action: utter_relationships46
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships47 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships47
+  - action: utter_relationships47
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships48 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships48
+  - action: utter_relationships48
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships49 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships49
+  - action: utter_relationships49
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships50 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships50
+  - action: utter_relationships50
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships51 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships51
+  - action: utter_relationships51
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships52 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships52
+  - action: utter_relationships52
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships53 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships53
+  - action: utter_relationships53
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships54 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships54
+  - action: utter_relationships54
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships55 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships55
+  - action: utter_relationships55
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships56 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships56
+  - action: utter_relationships56
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships57 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships57
+  - action: utter_relationships57
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships58 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships58
+  - action: utter_relationships58
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships59 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships59
+  - action: utter_relationships59
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships60 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships60
+  - action: utter_relationships60
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships61 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships61
+  - action: utter_relationships61
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships62 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships62
+  - action: utter_relationships62
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships63 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships63
+  - action: utter_relationships63
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships64 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships64
+  - action: utter_relationships64
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships65 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships65
+  - action: utter_relationships65
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships66 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships66
+  - action: utter_relationships66
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships67 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships67
+  - action: utter_relationships67
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships68 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships68
+  - action: utter_relationships68
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships69 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships69
+  - action: utter_relationships69
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships70 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships70
+  - action: utter_relationships70
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships71 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships71
+  - action: utter_relationships71
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships72 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships72
+  - action: utter_relationships72
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships73 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships73
+  - action: utter_relationships73
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships74 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships74
+  - action: utter_relationships74
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships75 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships75
+  - action: utter_relationships75
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships76 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships76
+  - action: utter_relationships76
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships77 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships77
+  - action: utter_relationships77
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships78 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships78
+  - action: utter_relationships78
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships79 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships79
+  - action: utter_relationships79
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships80 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships80
+  - action: utter_relationships80
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships81 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships81
+  - action: utter_relationships81
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships82 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships82
+  - action: utter_relationships82
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships83 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships83
+  - action: utter_relationships83
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships84 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships84
+  - action: utter_relationships84
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships85 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships85
+  - action: utter_relationships85
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships86 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships86
+  - action: utter_relationships86
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships87 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships87
+  - action: utter_relationships87
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships88 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships88
+  - action: utter_relationships88
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships89 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships89
+  - action: utter_relationships89
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships90 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships90
+  - action: utter_relationships90
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships91 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships91
+  - action: utter_relationships91
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships92 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships92
+  - action: utter_relationships92
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships93 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships93
+  - action: utter_relationships93
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships94 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships94
+  - action: utter_relationships94
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships95 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships95
+  - action: utter_relationships95
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships96 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships96
+  - action: utter_relationships96
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships97 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships97
+  - action: utter_relationships97
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships98 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships98
+  - action: utter_relationships98
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships99 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships99
+  - action: utter_relationships99
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: relationships100 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: relationships100
+  - action: utter_relationships100
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq0
+  - action: utter_lgbtq0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq1
+  - action: utter_lgbtq1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq2
+  - action: utter_lgbtq2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq3
+  - action: utter_lgbtq3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq4
+  - action: utter_lgbtq4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq5
+  - action: utter_lgbtq5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq6
+  - action: utter_lgbtq6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq7
+  - action: utter_lgbtq7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq8
+  - action: utter_lgbtq8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq9
+  - action: utter_lgbtq9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq10
+  - action: utter_lgbtq10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq11
+  - action: utter_lgbtq11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq12
+  - action: utter_lgbtq12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq13
+  - action: utter_lgbtq13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: lgbtq14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: lgbtq14
+  - action: utter_lgbtq14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change0
+  - action: utter_behavioral-change0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change1
+  - action: utter_behavioral-change1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change2
+  - action: utter_behavioral-change2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change3
+  - action: utter_behavioral-change3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change4
+  - action: utter_behavioral-change4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change5
+  - action: utter_behavioral-change5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change6
+  - action: utter_behavioral-change6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change7
+  - action: utter_behavioral-change7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change8
+  - action: utter_behavioral-change8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change9
+  - action: utter_behavioral-change9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change10
+  - action: utter_behavioral-change10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change11 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change11
+  - action: utter_behavioral-change11
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change12 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change12
+  - action: utter_behavioral-change12
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change13 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change13
+  - action: utter_behavioral-change13
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change14 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change14
+  - action: utter_behavioral-change14
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change15 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change15
+  - action: utter_behavioral-change15
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change16 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change16
+  - action: utter_behavioral-change16
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change17 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change17
+  - action: utter_behavioral-change17
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change18 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change18
+  - action: utter_behavioral-change18
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change19 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change19
+  - action: utter_behavioral-change19
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change20 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change20
+  - action: utter_behavioral-change20
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change21 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change21
+  - action: utter_behavioral-change21
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change22 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change22
+  - action: utter_behavioral-change22
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change23 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change23
+  - action: utter_behavioral-change23
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change24 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change24
+  - action: utter_behavioral-change24
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change25 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change25
+  - action: utter_behavioral-change25
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change26 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change26
+  - action: utter_behavioral-change26
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change27 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change27
+  - action: utter_behavioral-change27
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: behavioral-change28 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: behavioral-change28
+  - action: utter_behavioral-change28
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: addiction0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: addiction0
+  - action: utter_addiction0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: addiction1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: addiction1
+  - action: utter_addiction1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: addiction2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: addiction2
+  - action: utter_addiction2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: legal-regulatory0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: legal-regulatory0
+  - action: utter_legal-regulatory0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: legal-regulatory1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: legal-regulatory1
+  - action: utter_legal-regulatory1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: legal-regulatory2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: legal-regulatory2
+  - action: utter_legal-regulatory2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: legal-regulatory3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: legal-regulatory3
+  - action: utter_legal-regulatory3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: legal-regulatory4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: legal-regulatory4
+  - action: utter_legal-regulatory4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: legal-regulatory5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: legal-regulatory5
+  - action: utter_legal-regulatory5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: professional-ethics0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: professional-ethics0
+  - action: utter_professional-ethics0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: professional-ethics1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: professional-ethics1
+  - action: utter_professional-ethics1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: professional-ethics2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: professional-ethics2
+  - action: utter_professional-ethics2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: professional-ethics3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: professional-ethics3
+  - action: utter_professional-ethics3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: professional-ethics4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: professional-ethics4
+  - action: utter_professional-ethics4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: professional-ethics5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: professional-ethics5
+  - action: utter_professional-ethics5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: stress0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: stress0
+  - action: utter_stress0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: stress1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: stress1
+  - action: utter_stress1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: stress2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: stress2
+  - action: utter_stress2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: human-sexuality0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: human-sexuality0
+  - action: utter_human-sexuality0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: human-sexuality1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: human-sexuality1
+  - action: utter_human-sexuality1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: human-sexuality2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: human-sexuality2
+  - action: utter_human-sexuality2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: human-sexuality3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: human-sexuality3
+  - action: utter_human-sexuality3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: social-relationships0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: social-relationships0
+  - action: utter_social-relationships0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: social-relationships1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: social-relationships1
+  - action: utter_social-relationships1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: social-relationships2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: social-relationships2
+  - action: utter_social-relationships2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: social-relationships3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: social-relationships3
+  - action: utter_social-relationships3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: social-relationships4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: social-relationships4
+  - action: utter_social-relationships4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: social-relationships5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: social-relationships5
+  - action: utter_social-relationships5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: social-relationships6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: social-relationships6
+  - action: utter_social-relationships6
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: social-relationships7 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: social-relationships7
+  - action: utter_social-relationships7
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: social-relationships8 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: social-relationships8
+  - action: utter_social-relationships8
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: social-relationships9 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: social-relationships9
+  - action: utter_social-relationships9
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: social-relationships10 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: social-relationships10
+  - action: utter_social-relationships10
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: children-adolescents0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: children-adolescents0
+  - action: utter_children-adolescents0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: children-adolescents1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: children-adolescents1
+  - action: utter_children-adolescents1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: military-issues0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: military-issues0
+  - action: utter_military-issues0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: diagnosis0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: diagnosis0
+  - action: utter_diagnosis0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: diagnosis1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: diagnosis1
+  - action: utter_diagnosis1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: diagnosis2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: diagnosis2
+  - action: utter_diagnosis2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: counseling-fundamentals0 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: counseling-fundamentals0
+  - action: utter_counseling-fundamentals0
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: counseling-fundamentals1 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: counseling-fundamentals1
+  - action: utter_counseling-fundamentals1
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: counseling-fundamentals2 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: counseling-fundamentals2
+  - action: utter_counseling-fundamentals2
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: counseling-fundamentals3 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: counseling-fundamentals3
+  - action: utter_counseling-fundamentals3
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: counseling-fundamentals4 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: counseling-fundamentals4
+  - action: utter_counseling-fundamentals4
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: counseling-fundamentals5 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: counseling-fundamentals5
+  - action: utter_counseling-fundamentals5
+  - intent: affirm
+  - action: utter_goodbye
+
+- story: counseling-fundamentals6 path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: counseling-fundamentals6
+  - action: utter_counseling-fundamentals6
+  - intent: affirm
+  - action: utter_goodbye
